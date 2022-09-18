@@ -3,9 +3,8 @@ package testdemo;
 public class TestPro {
 
 	public static void main(String[] args) {
-System.out.println("Test Project3");
-System.out.println("Test Project4");
-
+String str="srinivas";
+System.out.println(str);
 
 	}
 
